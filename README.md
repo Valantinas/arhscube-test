@@ -12,11 +12,11 @@ A user consists of three fields: first name, last name and email
 Unit/Integration tests not required.
 
 ### Rest API
-GET localhost:8080/users - lists all users
-GET localhost:8080/users/{id} - finds user by id
-POST localhost:8080/users - creates new user
-PUT localhost:8080/users - updates user
-DELETE localhost:8080/users/{id} - deletes user by id
+- GET localhost:8080/users - lists all users
+- GET localhost:8080/users/{id} - finds user by id
+- POST localhost:8080/users - creates new user
+- PUT localhost:8080/users - updates user
+- DELETE localhost:8080/users/{id} - deletes user by id
 
 
 ### Running
